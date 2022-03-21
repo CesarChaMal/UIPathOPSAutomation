@@ -1,0 +1,1 @@
+"Dsn=mysql;description=mysql 8 connection;server=localhost;uid=root;pwd=root;database=configurator;port=3306"
